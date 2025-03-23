@@ -62,7 +62,7 @@ void PlayMadLib() {
         << " I asked " << entries[3].input
         << " if he wanted to commit " << entries[8].input << " with me, "
         << " but he said he was busy " << entries[4].input << " the " << entries[5].input
-        << " and eating " << entries[7].input << entries[6].input << " in " << entries[9].input << endl;
+        << " and eating " << entries[7].input << entries[6].input << " in " << entries[9].input << "." << endl;
 }
 
 int main() {
